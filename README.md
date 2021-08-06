@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**kfxiaoxia/kfxiaoxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://www.nyan.cat/cats/original.gif)
 
-Here are some ideas to get you started:
+- 🔭 I am currently a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=kfxiaoxia)
+
+#### Platform&Tools
+
+[![](https://img.shields.io/badge/macOS-Big Sur-EA3F4F?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>) [![](https://img.shields.io/badge/Xcode-12.5-4FACE8?style=flat-square&logo=Xcode)](<[https://](https://developer.apple.com/xcode/)>)  
+
+#### Languages
+[![](https://img.shields.io/badge/-Swift-DF5C43?style=flat-square&logo=Swift&logoColor=ffffff)](https://swift.org/)
+[![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Rust-327062?style=flat-square&logo=Rust&logoColor=ffffff)](https://www.rust-lang.org/)
