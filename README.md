@@ -8,7 +8,7 @@
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/macOS-Big Sur-EA3F4F?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>) [![](https://img.shields.io/badge/Xcode-12.5-4FACE8?style=flat-square&logo=Xcode)](<[https://](https://developer.apple.com/xcode/)>)  
+[![](https://img.shields.io/badge/macOS-BigSur-EA3F4F?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>) [![](https://img.shields.io/badge/Xcode-12.5-4FACE8?style=flat-square&logo=Xcode)](<[https://](https://developer.apple.com/xcode/)>)  
 
 #### Languages
 [![](https://img.shields.io/badge/-Swift-DF5C43?style=flat-square&logo=Swift&logoColor=ffffff)](https://swift.org/)
