@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-- 🔭 I am currently a developer
-
 ![](https://github-readme-stats.vercel.app/api?username=kfxiaoxia)
 #### Platform&Tools
 
