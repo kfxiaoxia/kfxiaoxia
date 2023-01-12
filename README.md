@@ -1,8 +1,8 @@
 ![](./images/github-banner.png)
 
 ### Hi there 👋
+![kfxiaoxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfxiaoxia&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=kfxiaoxia)
 
 #### Platform&Tools
 
